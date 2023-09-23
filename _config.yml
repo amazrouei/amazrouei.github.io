@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Nicki Minaj"
+  name   : "Nayef Raheem Al Hosani"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "This is my first website, very cool :)"
   links:
@@ -113,7 +113,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-
-header: 
-  teaser: "/assets/images/nightsky.jpg"
