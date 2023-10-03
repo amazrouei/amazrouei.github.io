@@ -11,13 +11,6 @@ tags:
 
 Assignment 1 With Afra 
 
-<!--more-->
-
-This post has a manual excerpt `<!--more-->` set after the second paragraph. The following YAML Front Matter has also be applied:
-
-```yaml
-excerpt_separator: "<!--more-->"
-```
 
 Part 1:
  
@@ -25,17 +18,15 @@ Explore the HAM website as well as the csv file of All Objects (found in the pos
 
 Choose a few pieces from the collections of interest to you. 
 
-Website:
-https://harvardartmuseums.org/article/reconstructing-the-staff-of-em-nydia-the-blind-flower-girl-of-pompeii-em
+[Piece 1 - Website](https://harvardartmuseums.org/article/reconstructing-the-staff-of-em-nydia-the-blind-flower-girl-of-pompeii-em)
 
-https://harvardartmuseums.org/exhibitions/6321/a-colloquium-in-the-visual-arts
+[Piece 2 - Website](https://harvardartmuseums.org/exhibitions/6321/a-colloquium-in-the-visual-arts)
 
-CSV File:
-https://harvardartmuseums.org/collections/object/39985- 
+[Piece 3 - CSV](https://harvardartmuseums.org/collections/object/39985-)
 
-https://harvardartmuseums.org/collections/object/297197
+[Piece 4 - CSV](https://harvardartmuseums.org/collections/object/297197)
 
-https://harvardartmuseums.org/collections/object/40250
+[Piece 5 - CSV](https://harvardartmuseums.org/collections/object/40250)
 
 
 
