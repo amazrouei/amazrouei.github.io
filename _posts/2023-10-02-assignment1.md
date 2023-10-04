@@ -71,6 +71,8 @@ We looked at Islamic Cultures, and according to the information on Posit cloud, 
 [(2 VIews) Enamelled Fragment  Islamic](https://www.harvardartmuseums.org/collections/object/216387)
 
 
+![The Code For Least Viewed](/assets/images/leastviewed.jpg)
+![The Code For The Parameters](/assets/images/leastviewedparameters.jpg)
 
 
 
@@ -97,6 +99,9 @@ Not really, because the least viewed objects aren’t organized and don’t real
 
 
 
+![The Code For The Bar Chart](/assets/images/barchart.jpg)
+
+
 
 
 
@@ -118,6 +123,8 @@ It is important to understand that a museum located in a specific region would p
 Our choice of three cultures were: Byzantine, Iraqi and Egyptian cultures
 
 
+
+![The Code For The Word Clouds](/assets/images/wordclouds.jpg)
 
 
 
