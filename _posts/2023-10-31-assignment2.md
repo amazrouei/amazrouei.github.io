@@ -9,7 +9,7 @@ tags:
   - idh
 ---
 
-Assignment 2 With Amal 
+Assignment 2 With Afra 
 
 
 ## About: 
