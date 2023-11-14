@@ -5,7 +5,7 @@ categories:
   - Blog
 tags:
   - assignment
-  - amal
+  - afra
   - idh
 ---
 
