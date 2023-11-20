@@ -16,7 +16,7 @@ Assignment 3 With Afra
 
 ## Step 1 
 
-![alt text](coverpage)
+![alt text](coverpage.jpg)
  
  Our decision to rely on [Source #8](https://archive.org/details/Directory_201704/page/n545/mode/2up), specifically the UAE Exports & Industry Directory, was driven by its comprehensive coverage of the UAE's exports across various sectors. This directory serves as a crucial industry guide for the years 2017-2018, prepared under the guidance of the government of Dubai with data compiled from diverse industries, including the Food Industry, Jewelry Industry, Insurance Companies operating in the UAE, and our primary focus, the Banking Sector.
 
@@ -27,7 +27,7 @@ Understanding the unique demographics of Dubai is pivotal for businesses, especi
 
 ## Step 2
 
-![alt text](datalist)
+![alt text](datalist.jpg)
 
 For Step 2, of our spatial modeling assignment, our initial focus was on structuring the data for effective geolocation. We opted to categorize the data into four key columns using ChatGPT: Bank Name, Address, Phone, and Website. While the Phone and Website columns were not primary factors for geolocation, we deemed them as additional, aesthetically pleasing information.
 
@@ -38,11 +38,11 @@ We didn’t have to use ChatGPT because the data was generally organized, howeve
 
 ## Step 3+4
 
-![alt text](w)
+![alt text](w.jpg)
 
-![alt text](e)
+![alt text](e.jpg)
 
-![alt text](q)
+![alt text](q.jpg)
 
 We employed the "geocode by awesome table" extension. However, this approach encountered challenges. The primary issue arose from the fact that these foreign banks also operated as local banks in other parts of the world. As a result, when uploading the initial CSV file onto Kepler.gl, the mapping erroneously included locations in countries like Iran, Turkey, and Kuwait.
 
