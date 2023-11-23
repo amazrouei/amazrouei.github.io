@@ -9,7 +9,7 @@ tags:
   - idh
 ---
 
-Assignment 3 With Amal 
+Assignment 3 With Afra 
 
 # Assignment 3 Spatial Data
 
