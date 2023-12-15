@@ -16,7 +16,7 @@ Assignment 3 With Afra
 
 ## Step 1 
 
-<img src="/assets/images/coverpage.jpg" style="zoom:50%;" />
+<img src="/assets/images/coverpage.jpg" style="zoom:200%;" />
 
 
  
@@ -40,7 +40,7 @@ In embracing the UAE Exports & Industry Directory, we didn't just choose a sourc
 
 ## Step 2
 
-<img src="/assets/images/datalist.jpg" style="zoom:50%;" />
+<img src="/assets/images/datalist.jpg" style="zoom:200%;" />
 
 
 
