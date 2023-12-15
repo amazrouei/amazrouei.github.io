@@ -16,7 +16,8 @@ Assignment 3 With Afra
 
 ## Step 1 
 
-<img src="/assets/images/coverpage.jpg" style="zoom:100%;" />
+<img src="/assets/images/coverpage.jpg" style="zoom:50%;" />
+
 
  
 Our choice to lean on Source #8, particularly the UAE Exports & Industry Directory, wasn't just a cold, calculated decision—it was driven by a deep curiosity about the heartbeat of Dubai's economic life. This directory, a labor of love guided by the government of Dubai for the years 2017-2018, stitches together the diverse stories of industries like a patchwork quilt. From the Food Industry to the glimmering Jewelry Sector, from the intricate web of Insurance Companies to our main squeeze, the Banking Sector, it's a tapestry that tells the tale of Dubai's economic dance.
@@ -39,7 +40,8 @@ In embracing the UAE Exports & Industry Directory, we didn't just choose a sourc
 
 ## Step 2
 
-<img src="/assets/images/datalist.jpg" style="zoom:100%;" />
+<img src="/assets/images/datalist.jpg" style="zoom:50%;" />
+
 
 
 For Step 2, of our spatial modeling assignment, our initial focus was on structuring the data for effective geolocation. We opted to categorize the data into four key columns using ChatGPT: Bank Name, Address, Phone, and Website. While the Phone and Website columns were not primary factors for geolocation, we deemed them as additional, aesthetically pleasing information.
@@ -51,13 +53,13 @@ We didn’t have to use ChatGPT because the data was generally organized, howeve
 
 ## Step 3+4
 
-<img src="/assets/images/w.jpg" style="zoom:100%;" />
+<img src="/assets/images/w.jpg" style="zoom:50%;" />
 
 
-<img src="/assets/images/e.jpg" style="zoom:100%;" />
+<img src="/assets/images/e.jpg" style="zoom:50%;" />
 
 
-<img src="/assets/images/q.jpg" style="zoom:100%;" />
+<img src="/assets/images/q.jpg" style="zoom:50%;" />
 
 
 Our decision to employ the "geocode by awesome table" extension for the geocoding of foreign banks in Dubai encountered notable challenges during the initial stages of the process. The primary issue stemmed from the dual role of these foreign banks, operating not only in Dubai but also as local entities in various international locations. Consequently, when the initial CSV file was uploaded onto Kepler.gl, the mapping inaccurately included locations in countries such as Iran, Turkey, and Kuwait.
