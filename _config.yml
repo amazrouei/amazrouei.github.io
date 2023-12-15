@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Amal Almazrouei"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/pfp.jpg"
   bio    : "This is my first website, very cool :)"
   links:
     - label: "Website"
